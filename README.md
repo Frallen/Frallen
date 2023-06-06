@@ -1,4 +1,4 @@
-# 💫 About Me:
+# 💫 Обо мне:
 👋 Привет! 👋<br><br>Я - frontend разработчик, свой путь я начал в 2017 году, тогда я учился в колледже и решил стать разработчиком и выбрал frontend направление! <br>С 2017 года я продолжаю совершенствовать свои навыки и получать новые.<br><br>Сейчас я имею 2 production опыта разработки.<br><br>🔭 Сейчас я работаю над проектом Kugo.<br>🤝 Всегда открыт к предложениям и сотрудничеству. <br>🌱 Изучаю Nuxt, TypeScript.<br>💬 Для связи со мной можете использовать телеграмм.<br>🎮 Активный геймер.<br>
 
 
@@ -9,13 +9,3 @@
 ![](https://github-readme-streak-stats.herokuapp.com/?user=Frallen&theme=vue-dark&hide_border=true)<br/>
 ![](https://github-readme-stats.vercel.app/api/top-langs/?username=Frallen&theme=vue-dark&hide_border=true&include_all_commits=true&count_private=true&layout=compact)
 
-### 🔝 Top Contributed Repo
-![](https://github-contributor-stats.vercel.app/api?username=Frallen&limit=5&theme=dark&combine_all_yearly_contributions=true)
-
-### 😂 Random Dev Meme
-<img src="https://rm.up.railway.app/" width="512px"/>
-
----
-[![](https://visitcount.itsvg.in/api?id=Frallen&icon=1&color=1)](https://visitcount.itsvg.in)
-
-<!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
